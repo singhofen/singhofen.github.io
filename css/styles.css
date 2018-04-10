@@ -1,7 +1,7 @@
- /* Typography */
+/* Typography- & -Media queries */
 
 html {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Permanent Marker', cursive;
 }
 
 @media (min-width: 576px) {
@@ -44,12 +44,12 @@ main {
 }
 
 main > .intro {
-	font-family: 'Reem Kufi', sans-serif;
+	font-family: 'Permanent Marker', cursive;
 	font-size: 3.75em;
-	font-weight: 600;
+	font-weight: 300;
 }
 
-main > .tagline {
+main > .about {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
@@ -68,5 +68,4 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
-}   
-      
+}
