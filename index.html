@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +10,8 @@
 
 	<!--singhofen.github.io/favicon.ico-->
 	<link rel="icon" href="singhofen.github.io/favicon.ico" type="" />
-	<link rel="icon" href="https://favicon.io/?text=Ch&shape=rounded&fontFamily=Lancelot&fontSize=100&fontColor=%23ffffff&backgroundColor=%230000ff"
+   <link rel="icon" href="https://favicon.io/?text=Ch&shape=rounded&fontFamily=Lancelot&fontSize=100&fontColor=%23ffffff&backgroundColor=%230000ff">
+   
 	<!--C:\Users\ch833\Desktop\ALL project web pages\sample git wesite\favicon.ico-->
 
 	<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
@@ -20,7 +22,7 @@
    <link rel="stylesheet" href="css/themes/white-blue.css">
 	<style>
 	
-		/* Typography- & -Media queries */
+/***** Typography- & -Media queries*****/
 
 html {
 	font-family: 'Permanent Marker', cursive;
@@ -65,21 +67,24 @@ main {
 	text-align: center;
 }
 
+/***OPTIONAL CSS TO ADD FOR ABOUT/INTRO SECTIONS****/
+/*
 main > .intro {
 	font-family: 'Permanent Marker', cursive;
 	font-size: 3.75em;
 	font-weight: 300;
 }
-
+/*
 main > .about {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
-
+*/
 .icons-social i {
-	padding: 10px;
+	margin: 8px;
 }
+/*----CSS DOESNT APPLY TO WEBSITE-----
 
 .devto {
 	margin-bottom: -0.20rem;
@@ -91,11 +96,34 @@ main > .about {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
 	/* Minimal CSS Reset */
 		
-* {
-  background-color: lightgrey !important;
-  color: rgb(36, 36, 201) !important;
+
+*{
+   -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: 3; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    0%   {background-color:#000000; left:0px; top:0px;}
+    25%  {background-color:#262626; left:200px; top:0px;}
+    50%  {background-color:#1a1a1a; left:200px; top:200px;}
+    75%  {background-color:#0d0d0d; left:0px; top:200px;}
+    100% {background-color:#000000; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   {background-color:#000000; left:0px; top:0px;}
+    25%  {background-color:#262626; left:200px; top:0px;}
+    50%  {background-color:#1a1a1a; left:200px; top:200px;}
+    75%  {background-color:#0d0d0d; left:0px; top:200px;}
+    100% {background-color:#000000; left:0px; top:0px;}
 }
 
 html {
@@ -103,7 +131,8 @@ html {
   font-size: 12px;
   
 }
-
+/*-----CSS DOESNT APPLY TO WEBSITE----*/
+/*
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -128,7 +157,7 @@ img {
 </head>
 <body>
 	<main>
-		<div class="intro">Hi there, I'm Chase!</div>
+		<div class="intro">HI THERE, I'M CHASE!</div>
 		<div class="about"> Web Development | HTML | CSS  | JavaScript </div>
 		<div class="about">Explore & Connect</div>
 
