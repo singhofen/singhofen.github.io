@@ -21,6 +21,116 @@
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/themes/indigo-white.css">
 	
+	<style>
+	
+	/* Typography */
+
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+@media (min-width: 576px) {
+	html {
+		font-size: 14px;
+	}
+}
+
+@media (min-width: 768px) {
+	html {
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 992px) {
+	html {
+		font-size: 18px;
+	}
+}
+
+@media (min-width: 1200px) {
+	html {
+		font-size: 20px;
+	}
+}
+
+.icons-social i {
+	font-size: 3em;
+}
+
+/* Custom Styles */
+
+main {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	justify-content: center;
+	padding: 0 30px;
+	text-align: center;
+}
+
+main > .intro {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 3.75em;
+	font-weight: 300;
+}
+
+main > .tagline {
+	font-size: 1.5rem;
+	margin: 1.5rem 0;
+	font-weight: 100;
+}
+
+.icons-social i {
+	padding: 10px;
+}
+.icons-social a {
+	margin: 8px;
+	color: blue !important;
+
+}
+.devto {
+	margin-bottom: -0.20rem;
+}
+
+.devto svg {
+	margin-bottom: -0.20rem;
+	margin-left: 0.675rem;;
+	width: 2.65rem;
+	height: 2.65rem;
+}
+
+/********CSS*****ANIMATION'S*************/
+
+*{
+   -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: 3; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    0%   {background-color:#000000; left:0px; top:0px;}
+    25%  {background-color:#262626; left:200px; top:0px;}
+    50%  {background-color:#1a1a1a; left:200px; top:200px;}
+    75%  {background-color:#0d0d0d; left:0px; top:200px;}
+    100% {background-color:#000000; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   {background-color:#000000; left:0px; top:0px;}
+    25%  {background-color:#262626; left:200px; top:0px;}
+    50%  {background-color:#1a1a1a; left:200px; top:200px;}
+    75%  {background-color:#0d0d0d; left:0px; top:200px;}
+    100% {background-color:#000000; left:0px; top:0px;}
+}
+
+
+		
+	</style>
+	
 </head>
 <body>
 	<main>
