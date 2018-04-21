@@ -1,5 +1,7 @@
+/* Typography */
+
 html {
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Roboto', sans-serif;
 }
 
 @media (min-width: 576px) {
@@ -41,25 +43,26 @@ main {
 	text-align: center;
 }
 
-/***OPTIONAL CSS TO ADD FOR ABOUT/INTRO SECTIONS****/
-/*
 main > .intro {
 	font-family: 'Permanent Marker', cursive;
 	font-size: 3.75em;
 	font-weight: 300;
 }
-/*
-main > .about {
+
+main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
-*/
-.icons-social i {
-	margin: 8px;
-}
-/*----CSS DOESNT APPLY TO WEBSITE-----
 
+.icons-social i {
+	padding: 10px;
+}
+.icons-social a {
+	margin: 8px;
+	color: blue !important;
+
+}
 .devto {
 	margin-bottom: -0.20rem;
 }
@@ -71,8 +74,7 @@ main > .about {
 	height: 2.65rem;
 }
 
-	/* Minimal CSS Reset */
-		
+/********CSS*****ANIMATION'S*************/
 
 *{
    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
@@ -100,29 +102,3 @@ main > .about {
     100% {background-color:#000000; left:0px; top:0px;}
 }
 
-html {
-  box-sizing: border-box;
-  font-size: 12px;
-  
-}
-/*-----CSS DOESNT APPLY TO WEBSITE----*/
-/*
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-body, h1, h2, h3, h4, h5, h6, p, ol, ul {
-  margin: 0;
-  padding: 0;
-  font-weight:normal;
-}
-
-ol, ul {
-  list-style: none;
-}
-/*
-img {
-  max-width: 100%;
-  height: auto;
-}
-*/	
