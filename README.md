@@ -22,6 +22,6 @@ Your site should be live at `https://{username}.github.io`
 
 
 
-## License
-# Dev Landing Page Forked from Dinesh Pandiyan (https://flexdinesh.github.io)
+License
+Dev Landing Page Forked from Dinesh Pandiyan (https://flexdinesh.github.io)
 MIT © Dinesh Pandiyan
