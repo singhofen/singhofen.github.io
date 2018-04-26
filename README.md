@@ -1,7 +1,7 @@
 My github website
 # singhofen.github.io
 
-
+Created a gh-pages branch for website repo. Then switch from master branch to gh-pages branch as the "master" branch. Deleting the master branch. Then Switched the repo back to the master branch because my site wasnt live under the gh-pages branch. 
 
 #############################################################################################
 
