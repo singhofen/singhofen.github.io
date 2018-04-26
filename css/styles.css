@@ -34,6 +34,10 @@ html {
 
 /* Custom Styles */
 
+main{
+	color: white;
+}
+
 main {
 	display: flex;
 	flex-direction: column;
@@ -45,8 +49,8 @@ main {
 
 main > .intro {
 	font-family: 'Permanent Marker', cursive;
-	font-size: 3.75em;
-	font-weight: 300;
+	font-size: 1.5em;
+	font-weight: 100;
 }
 
 main > .tagline {
@@ -63,6 +67,7 @@ main > .tagline {
 	color: blue !important;
 
 }
+
 .devto {
 	margin-bottom: -0.20rem;
 }
@@ -75,7 +80,8 @@ main > .tagline {
 }
 
 /********CSS*****ANIMATION'S*************/
-
+/********CSS*****ANIMATION'S*************/
+/********CSS*****ANIMATION'S*************/
 *{
    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
