@@ -1,0 +1,11 @@
+/************************************/
+
+TODO’s with GitHub portfolio Website:
+
+1.	Need to covert to Bootstrap 4.
+2.	Need to add 2 sections to display projects.
+3.	Need to  add cards to the sections with clickable links to the GitHub Repo’s that they reside in.
+4.	Revise CSS animations.
+5.	Add .js file to include slider, and visual effects. 
+
+/***********************************/
