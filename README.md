@@ -5,6 +5,8 @@ Created a gh-pages branch for website repo. Then switch from master branch to gh
 
 TODO's: Need to add JS slider, Section classes, and links projects. -4/26/2018
 
+Added TODOs .txt file List for GitHub Website-5/01/2018
+
 #############################################################################################
 
 Minimal landing page for developers.
@@ -22,8 +24,5 @@ If you already have a GitHub profile (obviously)
 
 Your site should be live at `https://{username}.github.io`
 
-
-
-License
 Dev Landing Page Forked from Dinesh Pandiyan (https://flexdinesh.github.io)
-MIT © Dinesh Pandiyan
+
