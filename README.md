@@ -1,5 +1,9 @@
-My github website
+My github website containing contact information and GitHub Profile.
 https://singhofen.github.io/
+
+
+![image](https://user-images.githubusercontent.com/23155302/39590214-403dde74-4ece-11e8-8362-5d61e4a38f4c.png)
+
 
 Created a gh-pages branch for website repo. Then switch from master branch to gh-pages branch as the "master" branch. Deleting the master branch. Then Switched the repo back to the master branch because my site wasnt live under the gh-pages branch. 
 
@@ -7,7 +11,7 @@ TODO's: Need to add JS slider, Section classes, and links projects. -4/26/2018
 
 Added TODOs .txt file List for GitHub Website-5/01/2018
 
-#############################################################################################
+############################################################################################
 
 Minimal landing page for developers.
 
