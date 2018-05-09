@@ -31,7 +31,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333 !important;
+  background-color: grey !important;
 }
 
 body {
@@ -44,7 +44,7 @@ body {
   color: #fff;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-  background-color: #333 !important;
+  background-color: grey !important;
 }
 
 .cover-container {
