@@ -1,6 +1,8 @@
 My github website containing contact information and GitHub Profile.
 https://singhofen.github.io/
 
+Updated my GitHub Home Page
+![image](https://user-images.githubusercontent.com/23155302/39831683-3aa01c92-5393-11e8-8ce1-a09d473e8cc1.png)
 
 ![image](https://user-images.githubusercontent.com/23155302/39590214-403dde74-4ece-11e8-8362-5d61e4a38f4c.png)
 
@@ -15,7 +17,7 @@ Added TODOs .txt file List for GitHub Website-5/01/2018
 
 Minimal landing page for developers.
 
-## GitHub Pages
+## GitHub Pages Instructions/tutorial
 
 GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
 
@@ -28,5 +30,5 @@ If you already have a GitHub profile (obviously)
 
 Your site should be live at `https://{username}.github.io`
 
-Dev Landing Page Forked from Dinesh Pandiyan (https://flexdinesh.github.io)
+
 
