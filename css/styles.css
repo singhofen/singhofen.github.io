@@ -31,7 +31,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: #333 !important;
 }
 
 body {
@@ -51,7 +51,7 @@ body {
 }
 
 h3{
-  font-family: 'Kalam', cursive;
+  font-family: 'Kalam', cursive !important;
 }
 
 /*
