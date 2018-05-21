@@ -1,6 +1,11 @@
 My github website containing contact information and GitHub Profile.
 https://singhofen.github.io/
 
+
+Link to my Github website with portfolio projects. 
+https://chasesinghofen.github.io/chasesinghofen/#
+
+
 Updated my GitHub Home Page
 ![image](https://user-images.githubusercontent.com/23155302/39831683-3aa01c92-5393-11e8-8ce1-a09d473e8cc1.png)
 
