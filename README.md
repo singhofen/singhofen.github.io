@@ -6,6 +6,10 @@ Link to my Github portfolio website
 https://chasesinghofen.github.io/chasesinghofen/ 
 
 Updated my Dev. landing home page to include JS, particles.js, and modified css styles and contact information.
+![image](https://user-images.githubusercontent.com/23155302/41117513-41091942-6a5b-11e8-9f89-8ff4e0760ded.png)
+
+
+Updated my Dev. landing home page to include JS, particles.js, and modified css styles and contact information.
 ![image](https://user-images.githubusercontent.com/23155302/40997369-63ce9180-68d2-11e8-9f46-ba6594d8c7c1.png)
 
 
