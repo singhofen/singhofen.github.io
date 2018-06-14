@@ -5,6 +5,10 @@ https://singhofen.github.io/
 Link to my Github portfolio website
 https://chasesinghofen.github.io/chasesinghofen/ 
 
+updated dev home page to include fa fa icons & skills in header
+![image](https://user-images.githubusercontent.com/23155302/41439054-50af5a04-6ff7-11e8-8d46-246c67640f1e.png)
+
+
 Updated my Dev. landing home page to include JS, particles.js, and modified css styles and contact information.
 ![image](https://user-images.githubusercontent.com/23155302/41117513-41091942-6a5b-11e8-9f89-8ff4e0760ded.png)
 
