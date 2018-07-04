@@ -58,14 +58,15 @@ h3{
 .icons-social i{
   padding: 10px;
   font-size: 40px;
-
 }
 
 .icons-social a{
   margin: 9px;
   color: blue;
+  text-decoration: none;
 }
 
 .icons-social a:hover{
   color: yellow;
+  
 }
