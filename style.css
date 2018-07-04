@@ -12,6 +12,7 @@ a {
 }
 a:hover{
   color: yellow;
+  text-decoration: none;
 }
 body {
   display: flex;
@@ -63,10 +64,10 @@ h3{
 .icons-social a{
   margin: 9px;
   color: blue;
-  text-decoration: none;
 }
 
 .icons-social a:hover{
   color: yellow;
+  text-decoration: none;
   
 }
