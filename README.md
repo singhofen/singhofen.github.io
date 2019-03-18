@@ -8,13 +8,13 @@ https://chasesinghofen.github.io/chasesinghofen/
 updated dev home page to include fa fa icons & skills in header
 ![image](https://user-images.githubusercontent.com/23155302/41439054-50af5a04-6ff7-11e8-8d46-246c67640f1e.png)
 
+I am also a Notary Public for the State of Florida in the USA. You can contact me via my website if i can be of service to you. https://singhofenfloridanotary.com/#contact
 
-Updated my Dev. landing home page to include JS, particles.js, and modified css styles and contact information.
-![image](https://user-images.githubusercontent.com/23155302/41117513-41091942-6a5b-11e8-9f89-8ff4e0760ded.png)
+#### Anyone can use any of my web projects for their professional growth/prototyping/education or Business.
+#### If you use it for your business all I ask is you provide a star/fork here on github or link back. This is to help others if they are searching/needing ideas for their own projects/business.
+-Regards
 
 
-Updated my Dev. landing home page to include JS, particles.js, and modified css styles and contact information.
-![image](https://user-images.githubusercontent.com/23155302/40997369-63ce9180-68d2-11e8-9f46-ba6594d8c7c1.png)
 
 
 ---
