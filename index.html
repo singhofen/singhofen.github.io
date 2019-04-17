@@ -75,10 +75,6 @@
               <i class="fab fa-linkedin"></i>
             </a>
 
-            <a target="_blank" href="https://singhofenfloridanotary.com/">
-              <i class="fas fa-stamp"></i>
-            </a>
-
             <a target="_blank" href="https://medium.com/@ch83311s">
               <i class="fab fa-medium"></i>
             </a>
@@ -124,19 +120,27 @@
 <!-- Particle Script -->
   <script>
     var particles = Particles.init({
-      selector: '.background',
-      color: ['#DA0463', '#404B69', '#DBEDF3', '#33ff33', '#0000ff', '#ffff00', '#0462f9'],
-      sizeVaritions: 30,
-      maxParticles: 110,
+      selector: ".background",
+      color: [
+        "#1d69e2",//blue
+        "#FFFFFF",//white
+        "#e8ebed", //pale blue
+        "#f4ed1f",//yellow
+        "#5cf41f"//florescent green
+      ],
+      sizeVaritions: 24,
+      maxParticles: 65,
       connectParticles: true,
-      responsive: [{
-        breakpoint: 800,
-        options: {
-          color: '#4286f4',
-          maxParticles: 238,
-          connectParticles: false
+      responsive: [
+        {
+          breakpoint: 620,
+          options: {
+            color: "#1d69e2",
+            maxParticles: 35,
+            connectParticles: true
+          }
         }
-      }]
+      ]
     });
   </script>
   <!-- https://marcbruederlin.github.io/particles.js/#documentation -->
