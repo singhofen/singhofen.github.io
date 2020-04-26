@@ -15,7 +15,8 @@ If you already have a GitHub profile (obviously)
 * Customize your name, links and everything else for your landing page
 * `git push`
 
-Your site should be live at `https://{username}.github.io`
-
+Your site should be live at `https://{username}.github.io` <br>
+Credits/forked from <br>
+https://github.com/flexdinesh/dev-landing-page
 
 
